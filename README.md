@@ -1,5 +1,5 @@
 # Space tourism website solution
-<img src="preview/preview.jpg" width="300" height="400">
+<img src="preview/preview.jpg" width="600" height="400">
 
 - Live Site URL: [Demo](https://tourtospace.netlify.app)
 - Frontend website that stimulate a tour for space enthusiasts.
@@ -28,7 +28,7 @@ Users should be able to:
 
 #### 1. Main page - Desktop
 
-![ScreenShot](preview/preview.jpg)
+<img src="preview/desktop.png" width="600" height="400">
 
 #### 2. Main page - Tablet
 
@@ -36,11 +36,11 @@ Users should be able to:
 
 #### 3. Main page - Mobile
 
-<img src="preview/mobile.png" width="300" height="400">
+<img src="preview/mobile.png" width="250" height="400">
 
 #### 4. Main page - Mobile with Navigation
 
-<img src="preview/mobile-with-nav.png" width="300" height="400">
+<img src="preview/mobile-with-nav.png" width="250" height="400">
 
 ### Built with
 
