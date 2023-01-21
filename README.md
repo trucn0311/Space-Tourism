@@ -28,7 +28,7 @@ Users should be able to:
 
 #### 1. Main page - Desktop
 
-<img src="preview/desktop.png" width="600" height="400">
+<img src="preview/desktop.png" width="600" height="350">
 
 #### 2. Main page - Tablet
 
