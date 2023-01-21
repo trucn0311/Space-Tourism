@@ -1,4 +1,4 @@
-# Space tourism website solution
+# Space tourism website 
 <img src="preview/preview.jpg" width="600" height="400">
 
 - Live Site URL: [Demo](https://tourtospace.netlify.app)
