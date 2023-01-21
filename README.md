@@ -1,5 +1,5 @@
 # Space tourism website solution
-
+![ScreenShot](preview/preview.jpg)
 - Live Site URL: [Demo](https://tourtospace.netlify.app)
 - Frontend website that stimulate a tour for space enthusiasts.
 - The site is divided into several sections, including a welcome page, a destination page that introduces the major planets, a crew page that introduces the crew of the mission, and a technology page that explains the technology used in space exploration.
@@ -31,7 +31,7 @@ Users should be able to:
 
 #### 2. Main page - Tablet
 
-![ScreenShot](preview/tablet.png)
+<img src="preview/tablet.png" width="100" height="100">
 
 #### 3. Main page - Mobile
 
